@@ -1,0 +1,3 @@
+# 发布仓库模板时由维护者填写具有仓库写入权限的个人或 @FoldRay/<team>。
+# 空模板不提供 CODEOWNERS 保护；平台投稿 API 自行校验不可变提交路径范围。
+# 管理文件包括 /.github/、/README.md、/CONTRIBUTING.md 和 /templates/。
