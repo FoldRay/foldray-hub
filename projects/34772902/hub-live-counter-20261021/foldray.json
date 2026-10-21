@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "hub-live-counter-20261021",
+  "ownerGithubId": "34772902",
+  "title": "Hub 联调计数器",
+  "description": "原创 MIT 计数器，用于验证 GitHub 投稿、合规审查、自动合并和静态部署。",
+  "category": "WEB",
+  "license": "MIT",
+  "sourceDir": "source",
+  "links": {}
+}
