@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "slug": "hub-production-cli-20261021",
+  "ownerGithubId": "34772902",
+  "title": "Hub 生产验收 CLI",
+  "description": "原创 MIT 命令行示例，用于验证非 Web 项目的分类、源码展示和外部使用入口。",
+  "category": "OTHER",
+  "license": "MIT",
+  "sourceDir": "source",
+  "links": {
+    "homepage": "https://github.com/FoldRay/foldray-hub/tree/main/projects/34772902/hub-production-cli-20261021"
+  }
+}
