@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "hello-hub-example",
+  "ownerGithubId": "34772902",
+  "title": "Hello Hub 投稿示例",
+  "description": "最小静态 Web 投稿示例。参照目录和文件组织自己的项目，替换作者 ID、slug、标题和源码后创建自己的 PR。",
+  "category": "WEB",
+  "license": "MIT",
+  "sourceDir": "source",
+  "links": {}
+}
